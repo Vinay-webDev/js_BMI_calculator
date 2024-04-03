@@ -30,6 +30,9 @@ input[type="number"] {
     margin-bottom: 10px;
 }
 button{
+    background-color:yellow;
+    color: navy;
+    font-weight: 300;
     padding: 10px 20px;
     margin-top: 10px;
 }
